@@ -8,7 +8,7 @@ import math
 #3
 #1
 #120
-#1
+#333
 #0
 a= math.ceil(7.15)
 b=math.floor(19.156)
@@ -18,7 +18,7 @@ e=math.log10(100)
 f=math.sqrt(9)
 g=math.isqrt(2)
 h=math.factorial(5)
-i=math.gcd(1111111111, 12321)
+i=math.gcd(111111111, 12321)
 j=math.sin(0)
 print(a)
 print(b)
